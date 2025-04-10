@@ -2,6 +2,8 @@
 
 This project is a React application that integrates with the Reqres API for user authentication and management. It provides a clean interface for viewing, editing, and deleting user accounts.
 
+🔗 **Live Site**: [https://user-logs-weld.vercel.app](https://user-logs-weld.vercel.app)
+
 ## Features
 
 - **Authentication System**: Login with token-based authentication  
